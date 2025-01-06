@@ -5,7 +5,7 @@
 # CONFIG_ZMK_DISPLAY=y
 
 <<<<<<< HEAD
-# Uncomment these two lines to add support for encoders
+Uncomment these two lines to add support for encoders
 =======
 # Uncomment these two lines to add support for encoders
 >>>>>>> 62eed35cac355889cb5b9fcd36eb5621af085614
